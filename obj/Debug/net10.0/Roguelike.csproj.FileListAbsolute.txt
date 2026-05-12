@@ -1,0 +1,14 @@
+C:\Users\robin\Documents\code\c_#_projet\bin\Debug\net10.0\Roguelike.exe
+C:\Users\robin\Documents\code\c_#_projet\bin\Debug\net10.0\Roguelike.deps.json
+C:\Users\robin\Documents\code\c_#_projet\bin\Debug\net10.0\Roguelike.runtimeconfig.json
+C:\Users\robin\Documents\code\c_#_projet\bin\Debug\net10.0\Roguelike.dll
+C:\Users\robin\Documents\code\c_#_projet\bin\Debug\net10.0\Roguelike.pdb
+C:\Users\robin\Documents\code\c_#_projet\obj\Debug\net10.0\Roguelike.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\Documents\code\c_#_projet\obj\Debug\net10.0\Roguelike.AssemblyInfoInputs.cache
+C:\Users\robin\Documents\code\c_#_projet\obj\Debug\net10.0\Roguelike.AssemblyInfo.cs
+C:\Users\robin\Documents\code\c_#_projet\obj\Debug\net10.0\Roguelike.csproj.CoreCompileInputs.cache
+C:\Users\robin\Documents\code\c_#_projet\obj\Debug\net10.0\Roguelike.dll
+C:\Users\robin\Documents\code\c_#_projet\obj\Debug\net10.0\refint\Roguelike.dll
+C:\Users\robin\Documents\code\c_#_projet\obj\Debug\net10.0\Roguelike.pdb
+C:\Users\robin\Documents\code\c_#_projet\obj\Debug\net10.0\Roguelike.genruntimeconfig.cache
+C:\Users\robin\Documents\code\c_#_projet\obj\Debug\net10.0\ref\Roguelike.dll
